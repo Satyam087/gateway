@@ -328,7 +328,7 @@
       "id": "demonroute",
       "name": "DemonRoute",
       "object": "provider",
-      "description": "DemonRoute provides high-performance, OpenAI-compatible access to over 500 open-source, uncensored, and specialized models (including Dolphin, MythoMax, and abliterated builds) with a verified no-training guarantee on customer data.",
+      "description": "DemonRoute provides high-performance, OpenAI-compatible access to over 1,300 open-source, uncensored, and specialized models (including Dolphin, MythoMax, and abliterated builds) with a verified no-training guarantee on customer data.",
       "base_url": "https://api.demonroute.com/v1"
     }
   ]
